@@ -1,3 +1,3 @@
 <?
-	echo "Olá Mundo Maravilhoso!!"
+	echo "Olá Mundo Maravilhoso! Bom dia!"
 ?>
