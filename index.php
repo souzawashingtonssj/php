@@ -1,5 +1,5 @@
 <?
-	echo "Olá Mundo Maravilhoso! Bom dia!"
+	echo "Uma nova página!! Tudo novo"
 
-	echo "alterei o arquivo no Windows!";
+	
 ?>
